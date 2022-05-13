@@ -1,0 +1,35 @@
+.class1{
+   background-color: bisque; 
+    height: 300px;
+    width: 600px;
+}
+h1{
+background-color: rgba(255, 99, 71, 0);
+}
+p{
+   background-color: azure;
+    color: chartreuse;
+}
+span{
+    color: inherit;
+    border: 2px solid; 
+}
+.subclass p{
+    color: burlywood;
+}
+#span1{
+    color: darkgreen;
+    border: 2px solid;
+}
+.class2{
+    background-image: url(../class11/image/ramp.PNG);
+    background-color: darkgrey;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 600px;
+    
+}
+.class2 h1{
+    background-color: rgba(0, 241, 255, 0);
+    
+}
